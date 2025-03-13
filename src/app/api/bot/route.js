@@ -30,7 +30,7 @@ The skies are calling, and JetFuel is ready for takeoff! You’ve been chosen to
 🚀 Your mission begins now! Tap below to start your journey.
   `;
 
-  const pngUrl = 'https://jetfuelgame.vercel.app/jetfuelpic.png';  // public 폴더에 있는 이미지 파일 경로
+  const pngUrl = 'https://jetfuelbot.vercel.app/jetfuelpic.png';  // public 폴더에 있는 이미지 파일 경로
 
   // ✅ GIF + 메시지 + 버튼을 한 번에 보냄
   await ctx.replyWithPhoto(pngUrl, {
